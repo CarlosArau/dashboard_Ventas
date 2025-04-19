@@ -21,7 +21,6 @@ Este proyecto simula un entorno de análisis de ventas para una empresa ficticia
 
 - Ventas totales mensuales
 - Cumplimiento de metas
-- Ticket promedio
 - Ranking de productos más vendidos
 - Desempeño por vendedor
 
